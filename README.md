@@ -1,66 +1,64 @@
 # 🎮 StoreGaming
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Gaming Gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk3d2g0aW1zZWxudW1tN2lqZGU1eml1NGhkZ3J0ejJva3VvOTY3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JUSwkiO1Eh5K43ruN0/giphy.gif" alt="Gaming Gif" width="300"/>
 </p>
 
 ---
 
 ## 🌟 Sobre o Projeto
 
-**StoreGaming** é uma startup dedicada a criar **experiências de jogos únicas, imersivas e conectadas**. Nosso foco está em entregar qualidade e inovação, sempre valorizando **comunidade, diversidade, inclusão e sustentabilidade**.  
+**StoreGaming** é uma **plataforma de vendas de jogos digitais** que conecta jogadores a uma vasta coleção de títulos, oferecendo **compra rápida, segura e experiências personalizadas**.  
 
-Nosso objetivo é ser a plataforma ideal para gamers que buscam não apenas jogar, mas **vivenciar aventuras digitais memoráveis**.
+Nosso objetivo é facilitar o acesso a jogos de qualidade, mantendo um ambiente **inclusivo, moderno e confiável**.
 
 ---
 
 ## 🎯 Missão
 
-- Criar experiências de jogo inovadoras e envolventes.  
-- Apoiar a comunidade gamer com produtos de alta qualidade.  
-- Promover diversidade, inclusão e sustentabilidade no mundo dos games.
+- Disponibilizar uma **loja de jogos completa e segura** para gamers.  
+- Oferecer **experiências de compra rápidas e intuitivas**.  
+- Valorizar a **comunidade gamer** e promover **diversidade e inclusão**.
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias Utilizadas
 
-Nosso projeto utiliza uma pilha tecnológica moderna:
-
-- **Frontend:** React  
+- **Frontend:** React (com CSS puro e Material UI)  
 - **Backend:** Laravel / PHP  
 - **Banco de Dados:** MySQL  
 - **Autenticação:** JWT (JSON Web Tokens)  
-- **Estilização:** CSS puro & Material UI  
+- **Integração de Pagamento:** Mercado Pago  
 
 ---
 
 ## 🚀 Funcionalidades
 
-- Catálogo de jogos com filtros por gênero e popularidade.  
-- Sistema de compra integrado com Mercado Pago.  
-- Área de usuário para gerenciar downloads e histórico de compras.  
-- Sistema administrativo para cadastro e gerenciamento de jogos.  
-- Reaproveitamento de imagens para perfis e banners de jogos.  
+- Catálogo de jogos com filtro por gênero e busca por nome.  
+- Visualização detalhada de cada jogo com descrição e imagens.  
+- Compra de jogos via **integração com Mercado Pago**.  
+- Registro de usuários e histórico de downloads.  
+- Painel administrativo para cadastro e gerenciamento de jogos e imagens.  
 
 ---
 
 ## 📈 Próximos Passos
 
-- Implementar recomendações personalizadas de jogos.  
-- Criar sistema de conquistas e rankings para usuários.  
-- Adicionar integração com APIs externas para expandir catálogo.  
-- Explorar estratégias de **computação verde** para otimização de servidores.  
+- Sistema de recomendações personalizadas de jogos.  
+- Adicionar promoções e descontos automáticos.  
+- Implementar avaliações e reviews de usuários.  
+- Otimização do consumo de energia do servidor (Computação Verde).  
 
 ---
 
 ## 💌 Contato
 
-Entre em contato conosco:  
+Entre em contato:  
 
 [![Email](https://img.shields.io/badge/Email-workvitor786@gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:workvitor786@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Feito com ❤️ para a comunidade gamer</i>
+  <i>Feito com ❤️ para gamers de todo o mundo</i>
 </p>
