@@ -47,7 +47,7 @@ Nosso objetivo é facilitar o acesso a jogos de qualidade, mantendo um ambiente 
 - Sistema de recomendações personalizadas de jogos.  
 - Adicionar promoções e descontos automáticos.  
 - Implementar avaliações e reviews de usuários.  
-- Otimização do consumo de energia do servidor (Computação Verde).  
+- Concluir o desenvolvimento de algumas telas do site..  
 
 ---
 
